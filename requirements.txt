@@ -1,1 +1,3 @@
 requests
+# probably other versions are fine
+django==1.7.7
