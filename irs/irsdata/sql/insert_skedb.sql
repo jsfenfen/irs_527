@@ -1,0 +1,1 @@
+copy irsdata_skedb (record_type, form_id, skedb_id, org_name, ein, recip_name, recip_add1, recip_add2, recip_city, recip_state, recip_zip, recip_zip4, recip_employer, exp_amount, recip_occupation, exp_date, exp_purpose, dummy) from '/Users/jfenton/github-whitelabel/irs_527/data/8872_skedb_fixed.txt'   delimiter '|' null '';
